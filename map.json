@@ -140,12 +140,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/blobbyvolley.de\/data\/bv2browser\/index.html"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
+                 "value":"http://blobbyvolley.de/data/bv2browser/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
