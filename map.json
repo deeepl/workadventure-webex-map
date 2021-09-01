@@ -96,20 +96,6 @@
          "id":4,
          "name":"floor",
          "opacity":1,
-<<<<<<< HEAD
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
-                }],
-=======
->>>>>>> tmp
          "type":"tilelayer",
          "visible":true,
          "width":31,
