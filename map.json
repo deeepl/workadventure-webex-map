@@ -244,7 +244,8 @@
          "name":"mapName",
          "type":"string",
          "value":"Starter kit"
-        }, 
+        },
+
         {
          "name":"script",
          "type":"string",
